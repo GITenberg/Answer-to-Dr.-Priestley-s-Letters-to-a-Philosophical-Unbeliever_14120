@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '39573'
     url: http://www.gutenberg.org/2009/agents/39573
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14120#Answer-to-Dr.-Priestley-s-Letters-to-a-Philosophical-Unbeliever
 gutenberg_issued: '2004-11-22'
 gutenberg_type: Text
 identifiers:
